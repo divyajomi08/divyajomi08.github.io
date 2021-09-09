@@ -75,18 +75,15 @@ img {
   height: auto;
 }
 .div1 {
-  margin-top: 30px;
-  margin-left:50px ;
+  margin-top: 50px;
+  margin-left: 50px ;
   margin-right:50px ;
   width: auto;
-  
- 
-  
 }
 .a3 {
   background-color: #8ee5d1;
   padding: 10px;
-  height: 50px;
+  height: 40px;
   border: none;
 
   border-radius: 20px;
@@ -130,11 +127,16 @@ img {
   input{
     margin: auto;
     margin-bottom: 15px;
-
-
   }
   #b1{
     width: 30%;
     margin: auto;
+  }
+  .div8{
+    margin-top: 10px;
+    margin-left: 23%;
+    width: 600px;
+    height: auto;
+    
   }
 }
